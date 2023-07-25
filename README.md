@@ -1,2 +1,2 @@
-# rose_FE
-frontent only
+# rosemary
+Product description and SEO Title Generation
